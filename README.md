@@ -4,7 +4,7 @@
 
 <p>A clean, modern, and animated developer portfolio built to showcase projects, skills, and experience.</p>
 
-<img width="100%" src="https://github.com/Krishnna1909/Portfolio/blob/main/portfolio-main/public/preview.png" alt="Portfolio Preview"/>
+<img width="100%" src="https://github.com/Krishnna1909/Portfolio/blob/main/public/preview.png" alt="Portfolio Preview"/>
 
 <br/>
 
